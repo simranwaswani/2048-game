@@ -39,7 +39,7 @@ To run this game locally:
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/your-username/2048-game.git
+    git clone https://github.com/simranwaswani/2048-game.git
     ```
 
 2. Open the `index.html` file in your browser.
